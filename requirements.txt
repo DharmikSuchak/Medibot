@@ -1,0 +1,15 @@
+requests
+streamlit
+pandas
+Groq
+scikit-learn
+beautifulsoup4
+requests
+ollama 
+langchain 
+langchain-community 
+langchain-core  
+langchain_groq
+langchain_google_genai
+google.generativeai
+openai

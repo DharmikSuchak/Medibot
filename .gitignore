@@ -1,0 +1,11 @@
+.env
+__pycache__
+image_merpge.py 
+image.py 
+kruskal_Wallis_test.py 
+llm_comparison.py 
+model_response_scoring_sheet_final.xlsx
+llm_comparison_results.csv 
+example_case_study.png 
+kruskal_boxplot.png
+.venv
